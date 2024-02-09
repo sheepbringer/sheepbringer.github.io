@@ -18,5 +18,5 @@ ol {
 }
 
 ul { 
-  list-style-type: lower-alpha;
+  list-style-type: upper-alpha;
 }
