@@ -20,3 +20,9 @@ ol {
 ul { 
   list-style-type: square;
 }
+
+.profile-picture { 
+  widht: 200px;
+  height: 200px
+  border: 2px dotted;
+}
