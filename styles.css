@@ -14,9 +14,9 @@ p {
 }
 
 ol { 
-  list-style-type: letter;
+  list-style-type: A;
 }
 
 ul { 
-  list-style-type: disc;
+  list-style-type: square;
 }
