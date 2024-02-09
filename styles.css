@@ -10,4 +10,13 @@ h1 {
 p { 
   font-size: 16px;
   color: DarkBlue;
+  background: Lavender;
+}
+
+ol {
+  type=B
+}
+
+ul {
+  type=C
 }
