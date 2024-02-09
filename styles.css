@@ -22,8 +22,8 @@ ul {
 }
 
 .profile-picture { 
-  widht: 200px;
-  height: 200px
+  width: 200px;
+  height: 200px;
   border-width: 2px;
   border-style: dotted;
   border-color: white;
