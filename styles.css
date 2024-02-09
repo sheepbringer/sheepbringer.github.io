@@ -14,9 +14,9 @@ p {
 }
 
 ol { 
-  list-style-type: square;
+  list-style-type: upper-alpha;
 }
 
 ul { 
-  list-style-type: upper-alpha;
+  list-style-type: square;
 }
