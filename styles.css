@@ -13,10 +13,10 @@ p {
   background: Lavender;
 }
 
-ol {
-  type=B
+ol { 
+  list-style-type: letter;
 }
 
-ul {
-  type=C
+ul { 
+  list-style-type: disc;
 }
