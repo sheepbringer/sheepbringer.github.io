@@ -1,6 +1,6 @@
 body {
-background: DimGray;
-color: LightGray;
+background: 696969;
+color: D3D3D3;
 }
 
 h1 { 
@@ -10,7 +10,7 @@ h1 {
 p { 
   font-size: 16px;
   color: 00008B;
-  background: Lavender;
+  background: E6E6FA;
 }
 
 ol { 
