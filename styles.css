@@ -1,4 +1,13 @@
 body {
-background: ivory;
-color: gray;
+background: DimGray;
+color: LightGray;
+}
+
+h1 { 
+  font-size: 35px;
+}
+
+p { 
+  font-size: 16px;
+  color: DarkBlue;
 }
