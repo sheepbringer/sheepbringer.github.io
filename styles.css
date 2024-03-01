@@ -58,3 +58,7 @@ progress {
     height: 20px;
     margin-top: 10px;
 }
+
+header, footer, aside {
+    background-color: lightgray;
+}
